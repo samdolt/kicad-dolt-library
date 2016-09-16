@@ -1,0 +1,66 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACT4088
+D 28V, 1.5A Step-Down DC/DC Converter in SOT23-6
+K step-down buck dc-dc dc/dc
+F http://www.active-semi.com/sheets/ACT4088_Datasheet.pdf
+$ENDCMP
+#
+$CMP Bridge_MBxS
+D MB1S
+K graetz pont brige
+F http://www.mouser.com/ds/2/149/MB1S-195678.pdf
+$ENDCMP
+#
+$CMP D_TVS_BI_SMALL
+D Diode Schottky
+$ENDCMP
+#
+$CMP D_TVS_UNI_SMALL
+D Diode Schottky
+$ENDCMP
+#
+$CMP Led_x2_reverse_EL23-22BUSRSYGC-S530-A2-TR8
+D Led
+$ENDCMP
+#
+$CMP MCP7940M
+D Realtime Clock/Calendar I2C Interface, DIP/SOIC/TSSOP-8
+K I2C RTC Clock Calendar
+F http://www.nxp.com/documents/data_sheet/PCF8563.pdf
+$ENDCMP
+#
+$CMP PCLT-2A
+D Dual current limited overvoltage protected digital termination
+K input protection terminal
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/d1/34/ba/bd/85/f2/46/0f/CD00074288.pdf/files/CD00074288.pdf/jcr:content/translations/en.CD00074288.pdf
+$ENDCMP
+#
+$CMP Palpeur_CZ-0-S-PIN-M20
+D Palpeur OneWire
+K Palpeur onewire ow 1-Wire
+$ENDCMP
+#
+$CMP SM712
+D Diode Schottky
+$ENDCMP
+#
+$CMP STM32F042F4Px_dolt
+D Core: ARM Cortex-M0 Package: TSSOP20 Flash: 16KB Ram: 6KB Frequency: 48MHz Voltage: 2..--V IO-pins: 16
+K ARM Cortex-M0 STM32F0 STM32F0x2
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
+$ENDCMP
+#
+$CMP USBLC6-2
+D Very low capacitance ESD protection
+K USB TVS
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/06/1d/48/9c/6c/20/4a/b2/CD00050750.pdf/files/CD00050750.pdf/jcr:content/translations/en.CD00050750.pdf
+$ENDCMP
+#
+$CMP VNI2140J
+D Dual high side smart power solid state relay
+K output plc
+F http://www.mouser.com/ds/2/389/CD00217671-250226.pdf
+$ENDCMP
+#
+#End Doc Library
