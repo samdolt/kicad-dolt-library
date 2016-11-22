@@ -20,6 +20,78 @@ $CMP D_TVS_UNI_SMALL
 D Diode Schottky
 $ENDCMP
 #
+$CMP ESDAxxSC5
+D Diode TVS uni x4
+K TVS x4
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/7f/2e/1d/82/74/9c/4b/a1/CD00002055.pdf/files/CD00002055.pdf/jcr:content/translations/en.CD00002055.pdf
+$ENDCMP
+#
+$CMP LD1117S12CTR
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 1.2V, SOT223
+K REGULATOR LDO 1.2V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LD1117S12TR
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 1.2V, SOT223
+K REGULATOR LDO 1.2V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LD1117S18CTR
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 1.8V, SOT223
+K REGULATOR LDO 1.8V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LD1117S18TR
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 1.8V, SOT223
+K REGULATOR LDO 1.8V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LD1117S25CTR
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 2.5V, SOT223
+K REGULATOR LDO 2.5V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LD1117S25TR
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 2.5V, SOT223
+K REGULATOR LDO 2.5V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LD1117S33CTR
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT223
+K REGULATOR LDO 3.3V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LD1117S33TR
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT223
+K REGULATOR LDO 3.3V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LD1117S33TR_DOLT
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT223
+K REGULATOR LDO 3.3V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LD1117S50CTR
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 5.0V, SOT223
+K REGULATOR LDO 5.0V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LD1117S50TR
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 5.0V, SOT223
+K REGULATOR LDO 5.0V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
 $CMP Led_x2_reverse_EL23-22BUSRSYGC-S530-A2-TR8
 D Led
 $ENDCMP
