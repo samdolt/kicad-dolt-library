@@ -41,6 +41,11 @@ D Palpeur OneWire
 K Palpeur onewire ow 1-Wire
 $ENDCMP
 #
+$CMP Palpeur_CZ-M20-Universal
+D Palpeur OneWire
+K Palpeur onewire ow 1-Wire
+$ENDCMP
+#
 $CMP SM712
 D Diode Schottky
 $ENDCMP
