@@ -118,6 +118,12 @@ D Palpeur OneWire
 K Palpeur onewire ow 1-Wire
 $ENDCMP
 #
+$CMP SGx524
+D SGx524 Regulating Pulse-Width Modulators
+K PWM, SG2524, SG3524
+F http://www.ti.com/lit/gpn/sg3524
+$ENDCMP
+#
 $CMP SM712
 D Diode Schottky
 $ENDCMP
